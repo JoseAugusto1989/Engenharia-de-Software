@@ -11,7 +11,6 @@ function App() {
   return (
     <div>
       <p>test</p>
-      <Calculator />
     </div>
   )
 }
